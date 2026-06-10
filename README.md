@@ -78,18 +78,6 @@ Intrusion attempts appear with:
 | Windows access attempt | Access denied response returned |
 | Intrusion logging | Multiple attempts captured with full headers |
 | Detection accuracy | 100% — all access attempts logged |
-
----
-
-## Screenshots
-
-| Filename | Content |
-|----------|---------|
-| `honeypot_access_denied.png` | Browser response from Windows machine |
-| `honeypot_intrusion_alerts.png` | Kali terminal showing captured intrusion attempts |
-| `honeypot_network_tools.png` | PenTBox Network Tools menu selection |
-| `honeypot_main_menu.png` | PenTBox main menu interface |
-
 ---
 
 ## What I Learned
